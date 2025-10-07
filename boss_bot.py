@@ -822,7 +822,7 @@ async def legacy_sync(ctx: commands.Context):
 
 
 if __name__ == "__main__":
-    bot.run(TOKEN)
+bot.run(os.getenv("DISCORD_TOKEN"))
 
 
 

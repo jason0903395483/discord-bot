@@ -247,7 +247,8 @@ intents = discord.Intents.default()
 bot = MyBot(command_prefix="~no_prefix~", intents=intents)
 
 if __name__ == "__main__":
-    bot.run(TOKEN)
+bot.run(os.getenv("DISCORD_TOKEN"))
+
 
 
 

@@ -316,7 +316,7 @@ async def on_ready():
     print(f"?? Logged in as {bot.user} ({bot.user.id})")
 
 if __name__ == "__main__":
-    bot.run(TOKEN)
+bot.run(os.getenv("DISCORD_TOKEN"))
 '@ | Set-Content -Encoding UTF8 "$ROOT\app.py"
 
 # === 9) README.md ===

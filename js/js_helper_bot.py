@@ -131,5 +131,5 @@ if __name__ == "__main__":
         raise RuntimeError("蝻箏? DISCORD_TOKEN")
     if not GOOGLE_API_KEY or not GOOGLE_CSE_ID:
         raise RuntimeError("蝻箏? GOOGLE_API_KEY ??GOOGLE_CSE_ID")
-    client.run(os.getenv("DISCORD_TOKEN"))
+client.run(os.getenv("DISCORD_TOKEN"))
 

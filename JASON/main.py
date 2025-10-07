@@ -701,7 +701,7 @@ def main():
 DISCORD_TOKEN = os.getenv("DISCORD_TOKEN")
     if not token:
         raise RuntimeError("隢 .env 閮剖? DISCORD_TOKEN")
-    bot.run(token)
+bot.run(os.getenv("DISCORD_TOKEN"))
 
 if __name__ == "__main__":
     main()
