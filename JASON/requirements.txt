@@ -1,0 +1,6 @@
+discord.py==2.6.3
+aiosqlite==0.20.0
+APScheduler==3.10.4
+python-dateutil==2.9.0.post0
+tzdata==2024.1
+python-dotenv==1.0.1

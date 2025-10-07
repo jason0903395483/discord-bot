@@ -1,0 +1,10 @@
+{
+  "baselines": {
+    "2025-09-01": {
+      "bitcoin": 109801.0,
+      "ethereum": 4459.34,
+      "solana": 202.01,
+      "the-open-network": 3.16
+    }
+  }
+}

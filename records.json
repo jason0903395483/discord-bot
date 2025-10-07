@@ -1,0 +1,219 @@
+{
+  "02": {
+    "period": 120,
+    "last_kill": "2025-10-07T23:16:12.897596",
+    "channel": 1409627274189471795,
+    "killed_by": "xXxkeiii",
+    "user": "xsilly",
+    "manual_set_at": "2025-10-07T23:16:12.897596"
+  },
+  "03": {
+    "period": 120,
+    "last_kill": "2025-10-07T23:17:21.266202",
+    "channel": 1409627274189471795,
+    "user": "xsilly",
+    "killed_by": "xXxkeiii",
+    "manual_set_at": "2025-10-07T23:17:21.266202"
+  },
+  "05": {
+    "period": 180,
+    "last_kill": "2025-10-07T18:39:29.880006",
+    "channel": 1409627274189471795,
+    "killed_by": "xXxkeiii",
+    "user": "xsilly",
+    "manual_set_at": "2025-10-07T18:39:29.880006",
+    "carded": true,
+    "card_channel_id": 1409627274189471795,
+    "card_msg_id": 1425123481506287648
+  },
+  "06": {
+    "period": 180,
+    "last_kill": "2025-10-07T22:21:39.057434",
+    "channel": 1409627274189471795,
+    "user": "xXxkeiii",
+    "manual_set_at": "2025-10-07T19:17:58.881787",
+    "killed_by": "Mizt"
+  },
+  "08": {
+    "period": 180,
+    "last_kill": "2025-10-07T22:23:42.838389",
+    "channel": 1409627274189471795,
+    "killed_by": "Mizt",
+    "user": "xXxkeiii",
+    "manual_set_at": "2025-10-07T19:19:45.513529"
+  },
+  "10": {
+    "period": 180,
+    "last_kill": "2025-10-07T22:26:08.125111",
+    "channel": 1409627274189471795,
+    "killed_by": "Mizt",
+    "user": "xsilly",
+    "manual_set_at": "2025-10-07T22:26:08.125111"
+  },
+  "12": {
+    "period": 240,
+    "last_kill": "2025-10-07T17:06:03.304728",
+    "channel": 1409627274189471795,
+    "user": "xXxkeiii",
+    "manual_set_at": "2025-10-07T17:06:03.304728",
+    "killed_by": "HuaKH-嘎嘎補",
+    "carded": true,
+    "card_channel_id": 1409627274189471795,
+    "card_msg_id": 1425123483532136572
+  },
+  "14": {
+    "period": 240,
+    "last_kill": "2025-10-07T17:11:52.263129",
+    "channel": 1409627274189471795,
+    "user": "xsilly",
+    "manual_set_at": "2025-10-07T17:11:52.263129",
+    "killed_by": "xXxkeiii",
+    "carded": true,
+    "card_channel_id": 1409627274189471795,
+    "card_msg_id": 1425123485071573114
+  },
+  "70-2F": {
+    "period": 240,
+    "last_kill": null,
+    "channel": null
+  },
+  "17": {
+    "period": 300,
+    "last_kill": "2025-10-07T22:35:04.814800",
+    "channel": 1409627274189471795,
+    "user": "xsilly",
+    "manual_set_at": "2025-10-07T22:35:04.814800",
+    "killed_by": "xXxkeiii"
+  },
+  "18": {
+    "period": 300,
+    "last_kill": "2025-10-07T22:44:29.073299",
+    "channel": 1409627274189471795,
+    "user": "xsilly",
+    "manual_set_at": "2025-10-07T22:44:29.073299",
+    "killed_by": "xXxkeiii"
+  },
+  "19": {
+    "period": 360,
+    "last_kill": "2025-10-07T12:26:07.587504",
+    "channel": 1409627274189471795,
+    "user": "xXxkeiii",
+    "manual_set_at": "2025-10-07T12:26:07.587504",
+    "killed_by": "金牌啤酒-拿根香蕉頂著先",
+    "reminded": true,
+    "carded": true,
+    "card_channel_id": 1409627274189471795,
+    "card_msg_id": 1425066792300052603
+  },
+  "21": {
+    "period": 360,
+    "last_kill": "2025-10-07T18:55:41.767441",
+    "channel": 1409627274189471795,
+    "user": "xXxkeiii",
+    "manual_set_at": "2025-10-07T18:55:41.767441",
+    "killed_by": "金牌啤酒-拿根香蕉頂著先"
+  },
+  "80-3F": {
+    "period": 360,
+    "last_kill": null,
+    "channel": null
+  },
+  "22": {
+    "period": 480,
+    "last_kill": "2025-10-07T23:14:10.419795",
+    "channel": 1409627274189471795,
+    "user": "xsilly",
+    "manual_set_at": "2025-10-07T23:14:10.419795",
+    "killed_by": "HuaKH-嘎嘎補"
+  },
+  "26": {
+    "period": 480,
+    "last_kill": "2025-10-07T23:04:41.100689",
+    "channel": 1409627274189471795,
+    "user": "xsilly",
+    "manual_set_at": "2025-10-07T23:04:41.100689",
+    "killed_by": "HuaKH-嘎嘎補"
+  },
+  "29": {
+    "period": 480,
+    "last_kill": "2025-10-07T19:16:17.566732",
+    "channel": 1409627274189471795,
+    "user": "xXxkeiii",
+    "manual_set_at": "2025-10-07T19:16:17.566732"
+  },
+  "j70-2F": {
+    "period": 480,
+    "last_kill": "2025-10-01T20:48:00",
+    "channel": 1409627274189471795,
+    "user": "金牌啤酒-拿根香蕉頂著先",
+    "manual_set_at": "2025-10-01T22:49:43.983991",
+    "reminded": true,
+    "carded": true,
+    "card_channel_id": 1409627274189471795,
+    "card_msg_id": 1423048998415110285
+  },
+  "30": {
+    "period": 600,
+    "last_kill": "2025-10-07T20:21:23.491336",
+    "channel": 1409627274189471795,
+    "user": "金牌啤酒-拿根香蕉頂著先",
+    "manual_set_at": "2025-10-07T20:21:23.491336"
+  },
+  "31": {
+    "period": 600,
+    "last_kill": null,
+    "channel": null
+  },
+  "32": {
+    "period": 600,
+    "last_kill": null,
+    "channel": null
+  },
+  "40": {
+    "period": 600,
+    "last_kill": null,
+    "channel": null
+  },
+  "B3": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "33": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "34": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "37": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "j80-3F": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "41": {
+    "period": 840,
+    "last_kill": null,
+    "channel": null
+  },
+  "hd70": {
+    "period": 240,
+    "last_kill": "2025-10-07T03:38:03.720501",
+    "channel": 1409424292201889832,
+    "user": "金牌啤酒-拿根香蕉頂著先",
+    "manual_set_at": "2025-10-06T23:28:06.577812",
+    "killed_by": "栗子",
+    "reminded": true,
+    "carded": true,
+    "card_channel_id": 1409424292201889832,
+    "card_msg_id": 1424903722667872267
+  }
+}

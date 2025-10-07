@@ -1,0 +1,8 @@
+﻿discord.py>=2.4.0
+python-dotenv>=1.0.1
+paddleocr>=2.7.0
+shapely>=2.0.4
+opencv-python>=4.9.0.80
+pytesseract>=0.3.10
+rapidfuzz>=3.9.3
+Pillow>=10.4.0

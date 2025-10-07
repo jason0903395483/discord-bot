@@ -1,0 +1,202 @@
+{
+  "1351806583457316874": {
+    "bosses": {
+      "02": {
+        "period": 120,
+        "last_kill": "2025-08-26T14:24:00+08:00",
+        "notify_channel_id": 1409627274189471795,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "03": {
+        "period": 120,
+        "last_kill": "2025-08-26T14:28:00+08:00",
+        "notify_channel_id": 1409627274189471795,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "05": {
+        "period": 180,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "06": {
+        "period": 180,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "08": {
+        "period": 180,
+        "last_kill": "2025-08-26T14:36:00+08:00",
+        "notify_channel_id": 1409627274189471795,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "10": {
+        "period": 180,
+        "last_kill": "2025-08-26T14:46:00+08:00",
+        "notify_channel_id": 1409627274189471795,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "12": {
+        "period": 240,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "14": {
+        "period": 240,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "70-2F": {
+        "period": 240,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "17": {
+        "period": 300,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "18": {
+        "period": 300,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "19": {
+        "period": 360,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "21": {
+        "period": 360,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "80-3F": {
+        "period": 360,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "22": {
+        "period": 480,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "26": {
+        "period": 480,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "29": {
+        "period": 480,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "j70-2F": {
+        "period": 480,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "30": {
+        "period": 600,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "31": {
+        "period": 600,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "32": {
+        "period": 600,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "40": {
+        "period": 600,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "B3": {
+        "period": 720,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "33": {
+        "period": 720,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "34": {
+        "period": 720,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "37": {
+        "period": 720,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "j80-3F": {
+        "period": 720,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      },
+      "41": {
+        "period": 840,
+        "last_kill": "",
+        "notify_channel_id": null,
+        "reminded_early": false,
+        "reminded_spawn": false
+      }
+    }
+  }
+}

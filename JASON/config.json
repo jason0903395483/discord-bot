@@ -1,0 +1,18 @@
+{
+  "theme_color": 1489722,
+  "timezone": "Asia/Taipei",
+  "i18n": {"default": "zh-TW", "fallback": "en"},
+  "stickers": {
+    "mode": "fun",
+    "done_sticker_id": "",
+    "remind_sticker_id": "",
+    "overdue_sticker_id": ""
+  },
+  "reminders": {
+    "defaults": ["-1h", "-10m"]
+  },
+  "permissions": {
+    "delete": "admin_or_creator",
+    "assign": "any"
+  }
+}

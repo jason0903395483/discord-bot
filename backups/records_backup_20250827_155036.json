@@ -1,0 +1,155 @@
+{
+  "02": {
+    "period": 120,
+    "last_kill": null,
+    "channel": 1409627274189471795,
+    "killed_by": "金牌啤酒-小喀拉米"
+  },
+  "03": {
+    "period": 120,
+    "last_kill": null,
+    "channel": 1409627274189471795,
+    "user": "CanTus-龍捲風",
+    "killed_by": "金牌啤酒-小喀拉米"
+  },
+  "05": {
+    "period": 180,
+    "last_kill": null,
+    "channel": 1409627274189471795,
+    "killed_by": "金牌啤酒-小喀拉米",
+    "user": "金牌啤酒-小喀拉米"
+  },
+  "06": {
+    "period": 180,
+    "last_kill": null,
+    "channel": 1409627274189471795,
+    "killed_by": "金牌啤酒-小喀拉米",
+    "user": "金牌啤酒-小喀拉米"
+  },
+  "08": {
+    "period": 180,
+    "last_kill": null,
+    "channel": 1409627274189471795,
+    "killed_by": "金牌啤酒-小喀拉米",
+    "user": "金牌啤酒-小喀拉米"
+  },
+  "10": {
+    "period": 180,
+    "last_kill": null,
+    "channel": 1409627274189471795,
+    "killed_by": "金牌啤酒-小喀拉米",
+    "user": "CanTus-龍捲風"
+  },
+  "12": {
+    "period": 240,
+    "last_kill": null,
+    "channel": 1409627274189471795,
+    "user": "金牌啤酒-小喀拉米"
+  },
+  "14": {
+    "period": 240,
+    "last_kill": null,
+    "channel": 1409627274189471795
+  },
+  "70-2F": {
+    "period": 240,
+    "last_kill": null,
+    "channel": null
+  },
+  "17": {
+    "period": 300,
+    "last_kill": null,
+    "channel": 1409627274189471795
+  },
+  "18": {
+    "period": 300,
+    "last_kill": null,
+    "channel": null
+  },
+  "19": {
+    "period": 360,
+    "last_kill": null,
+    "channel": null
+  },
+  "21": {
+    "period": 360,
+    "last_kill": null,
+    "channel": null
+  },
+  "80-3F": {
+    "period": 360,
+    "last_kill": null,
+    "channel": null
+  },
+  "22": {
+    "period": 480,
+    "last_kill": null,
+    "channel": 1409627274189471795,
+    "user": "金牌啤酒-小喀拉米"
+  },
+  "26": {
+    "period": 480,
+    "last_kill": null,
+    "channel": null
+  },
+  "29": {
+    "period": 480,
+    "last_kill": null,
+    "channel": null
+  },
+  "j70-2F": {
+    "period": 480,
+    "last_kill": null,
+    "channel": null
+  },
+  "30": {
+    "period": 600,
+    "last_kill": null,
+    "channel": null
+  },
+  "31": {
+    "period": 600,
+    "last_kill": null,
+    "channel": null
+  },
+  "32": {
+    "period": 600,
+    "last_kill": null,
+    "channel": null
+  },
+  "40": {
+    "period": 600,
+    "last_kill": null,
+    "channel": null
+  },
+  "B3": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "33": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "34": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "37": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "j80-3F": {
+    "period": 720,
+    "last_kill": null,
+    "channel": null
+  },
+  "41": {
+    "period": 840,
+    "last_kill": null,
+    "channel": null
+  }
+}
